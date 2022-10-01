@@ -12,19 +12,19 @@ const items: ItemType[] = [{
     "title": "Website",
     "subtitle": "Look at my work!",
     "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "link": "https://charliealgert.com" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "subtitle": "@algertc| 🏡 to all my open-source projects",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/algertc" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@charlie.algert",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/algertc" //instagram profile link 
 },
 {
     "title": "Twitter",
@@ -34,15 +34,15 @@ const items: ItemType[] = [{
 },
 {
     "title": "LinkedIn",
-    "subtitle": "Know more about my profession 👨‍💼",
+    "subtitle": "Professional Endeavors 👨‍💼",
     "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://www.linkedin.com/in/charliealgert/" // linkedin
 },
 {
-    "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "title": "Research",
+    "subtitle": "Polygence | Scholar Profile",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
+    "link": "https://www.polygence.org/scholars/charlie-algert"//polygence  link 
 },
 
 {
