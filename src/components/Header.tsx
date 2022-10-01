@@ -27,7 +27,7 @@ function Header(): JSX.Element {
         <img src={avatar} alt="avatar" />
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>Sagnik. </b>
+          <b>Charlie Algert </b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
