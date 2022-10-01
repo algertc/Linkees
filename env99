@@ -1,2 +1,3 @@
 PUBLIC_URL=https://charliealgert.com
 HTTPS=true
+SKIP_PREFLIGHT_CHECK=true
