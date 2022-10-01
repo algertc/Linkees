@@ -42,7 +42,7 @@ const items: ItemType[] = [{
     "title": "Tor Atlas",
     "subtitle": "View My Relay Stats",
     "image": tor,
-    "link": "https://www.polygence.org/scholars/charlie-algert"//polygence  link 
+    "link": "https://metrics.torproject.org/rs.html#details/5D410EB085D4A8FBA22305FBA8DC19B71D9387FC"//atlas  link 
 },
 
 {
@@ -53,9 +53,9 @@ const items: ItemType[] = [{
 },
 {
     "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
+    "subtitle": "",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://telegram.me/" //Change To Car Progress Blog 
 }]
 
 export default items
