@@ -17,10 +17,9 @@
 2. Go to <code>assets/items.js</code> and add your own items and links
 3. Go to <code>public/index.html</code> and add your preferred title
 4. Add your Banners in <code>assets</code>, or use mine
-5. Deploy to Vercel or any other platform and Enjoy!
+5. Deploy and Enjoy!
 <br>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdevgossips%2Flinktree)
 
 ## Contributing 📝
 We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
