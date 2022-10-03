@@ -22,13 +22,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdevgossips%2Flinktree)
 
-## :pray: If you find this useful : 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/heysagnik.svg?style=social&label=Follow%20%40heysagnik)](https://twitter.com/heysagnik)<b>  &  </b><a href = "https://www.buymeacoffee.com/devgossips"><img src ="https://cdn.buymeacoffee.com/buttons/default-red.png" width="100px" height="25px" style="border-radius:10px;"/></a>
-
 ## Contributing 📝
 We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
 
-### Special Thanks to those People who have contributed :
-
-<img width="50px" src="https://contrib.rocks/image?repo=devgossips/linktree" />
 
