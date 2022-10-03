@@ -24,7 +24,7 @@ function Header(): JSX.Element {
   return (
     <div className="Header container">
       <div className="ten columns Header__inner">
-        <img src={avatar} alt="avatar" />
+        <img src={avatar} alt="Charlie Algert" />
         &nbsp;&nbsp;&nbsp;
         <h2>
           <b>Charlie Algert </b>
