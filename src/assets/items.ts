@@ -1,11 +1,11 @@
 import website from '../assets/website.png'
-import instagram from '../assets/instagram.png'
+import medium from '../assets/medium.png'
 import linkedin from '../assets/linkedin.jpg'
 import polygence from '../assets/polygence.png'
-import tor from '../assets/tor_navy.png'
+import tor from '../assets/tor.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
-import shockpoint from '../assets/shockpoint (4).png'
+import shockpoint from '../assets/shockpoint.png'
 import { ItemType } from '../ts';
 
 const items: ItemType[] = [{
@@ -39,10 +39,10 @@ const items: ItemType[] = [{
     "link": "https://shockpointmedia.com" 
 },
 {
-    "title": "Instagram",
-    "subtitle": "@charlie.algert",
-    "image": instagram,
-    "link": "https://instagram.com/algertc" //instagram profile link 
+    "title": "Medium Author",
+    "subtitle": "View My Articles",
+    "image": medium,
+    "link": "https://medium.com/@charliealgert" //medium profile link 
 }]
 
 export default items
