@@ -22,7 +22,7 @@ const items: ItemType[] = [{
 },
 {
     "title": "Research",
-    "subtitle": "Polyvence Scholar Profile",
+    "subtitle": "Polygence Scholar Profile",
     "image": polygence,
     "link": "https://www.polygence.org/scholars/charlie-algert"// polygence profile link 
 },
