@@ -1,6 +1,6 @@
 import React from "react";
 
-import KeySrc from '../assets/key.jpg'
+import KeySrc from '../assets/key.png'
 
 import '../css/components.css'
 
