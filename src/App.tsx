@@ -6,6 +6,7 @@ import items from './assets/items'
 
 import './css/skeleton.css'
 import './css/normalize.css'
+import FloatingButton from './components/FloatingButton';
 
 function App(): JSX.Element {
     return ( 
@@ -26,6 +27,7 @@ function App(): JSX.Element {
                     })
                 }
             </div>
+            <FloatingButton />
             <Footer></Footer>
         </div>
     );
