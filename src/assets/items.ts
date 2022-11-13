@@ -43,6 +43,24 @@ const items: ItemType[] = [{
     "subtitle": "View My Articles",
     "image": medium,
     "link": "https://medium.com/@charliealgert" //medium profile link 
+},
+{
+    "title": "Medium Author",
+    "subtitle": "View My Articles",
+    "image": medium,
+    "link": "https://medium.com/@charliealgert" //medium profile link 
+},
+{
+    "title": "Medium Author",
+    "subtitle": "View My Articles",
+    "image": medium,
+    "link": "https://medium.com/@charliealgert" //medium profile link 
+}, 
+{
+    "title": "Medium Author",
+    "subtitle": "View My Articles",
+    "image": medium,
+    "link": "https://medium.com/@charliealgert" //medium profile link 
 }]
 
 export default items
